@@ -3,7 +3,7 @@
 ## Introduction
 This data analysis project gave insight into the reasons why the fictitious telecommunications company Databel was losing customers.
 
-It aimed at helping company executives have a better understanding of there data and support strategic decision making to retain more of their customers.
+It aimed at helping company executives have a better understanding of their data and support strategic decision making to retain more of their customers.
 
 ## Data Visualization
 
